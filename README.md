@@ -10,7 +10,7 @@ Con este proyecto se evidencia la solución al reto tecnico de la empresa T-evol
 Para clonar este repositorio se debe ejecutar el siguiente comando:
 
 ```bash
-    git clone https://github.com/Mateosz12/QA_Automatizaci-n.git
+    git clone https://github.com/Mateosz12/AutomatizacionT.git
 ```
 
 ### AUTOMATIZACIÓN API
