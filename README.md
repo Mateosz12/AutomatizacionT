@@ -37,12 +37,12 @@ Restful-booker es una API web Create Read Update Delete que viene con funciones 
 
 
 **Obtener una reserva por ID:**
-- Obtener la reserva por ID con éxito
+- Obtener la reserva por ID 
 
 
 **Crear Token de autenticación:** crea un nuevo token de autenticación que se utilizará para acceder a la función actualizar
 
-- Crear con éxito un nuevo token de autenticación
+- Crear un nuevo token de autenticación
 - Crear un token de autenticación con datos incorrectos
 
 **Actualizar una reserva:**
