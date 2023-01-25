@@ -1,0 +1,30 @@
+plugins {
+    id 'java' //TOMA FUNCIONES DE JAVA
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    maven{
+        url 'https://repo.maven.apache.org/maven2'  //formato de directorio maven
+    }
+}
+
+dependencies { //librerias de karate
+    testImplementation 'com.intuit.karate:karate-junit5:1.2.0.RC4'
+    testImplementation 'net.masterthought:cucumber-reporting:5.7.0'
+}
+
+test{
+    useJUnitPlatform()
+}
+
+sourceSets{ // busque los recursos y excluya
+    test{
+        resources{
+            srcDir file('src/test/java')
+            exclude '**/*.java'
+        }
+    }
+}
