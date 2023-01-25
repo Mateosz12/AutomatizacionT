@@ -1,0 +1,11 @@
+# Intellij
+!.idea/
+.idea/
+out/
+
+# Gradle *
+.gradle/
+build/
+
+# Serenity-BDD
+target/
