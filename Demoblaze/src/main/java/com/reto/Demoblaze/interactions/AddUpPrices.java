@@ -11,8 +11,7 @@ public class AddUpPrices implements Interaction {
     private int sumTotalProducts = 0;
     private static String priceTotal;
 
-    public AddUpPrices() {
-    }
+
 
     public static String getPriceTotal() {
         return priceTotal;
