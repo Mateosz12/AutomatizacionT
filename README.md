@@ -27,8 +27,6 @@ Restful-booker es una API web Create Read Update Delete que viene con funciones 
 - **Gherkin** - Lenguaje Específico de Dominio (DSL)
 
 
-**Patrones de desarrollo:**
-
 
 #### Contenido de la automatización:
 
