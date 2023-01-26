@@ -108,7 +108,7 @@ Para ejecutar la prueba y generar el reporte:
 
 
 
-Para visualizar el reporte que se genera se debe ingresar a **demoblaze/target/site/serenity/index.html**
+Para visualizar el reporte que se genera se debe ingresar a **Demoblaze/target/site/serenity/index.html**
 
 
 
